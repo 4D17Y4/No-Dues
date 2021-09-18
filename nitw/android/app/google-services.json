@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515710274658",
+    "project_id": "no-dues-devathon",
+    "storage_bucket": "no-dues-devathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515710274658:android:f362391740256a3fd5553b",
+        "android_client_info": {
+          "package_name": "com.example.nitw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515710274658-9ufubom1j5tiej3bv4b2e0nu9hm0sunv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCddBLOJ3CzVC0ZfzWyXDNfUFJkx8V5qlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515710274658-9ufubom1j5tiej3bv4b2e0nu9hm0sunv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

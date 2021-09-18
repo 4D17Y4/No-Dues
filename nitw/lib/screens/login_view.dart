@@ -8,7 +8,7 @@ class LoginView extends StatefulWidget {
 class _LoginViewState extends State<LoginView> {
   TextEditingController userController = TextEditingController();
   TextEditingController passwordController = TextEditingController();
-  GlobalKey _form
+  // GlobalKey _form = GlobalKey();
 
   @override
   Widget build(BuildContext context) {
